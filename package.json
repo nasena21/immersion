@@ -13,6 +13,7 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
+    "docs:deploy": "vitepress build docs && gh-pages -d docs/.vitepress/dist",
     "commit": "git add -A && czg",
     "lint:eslint": "eslint . --ext .ts,.js,.vue --fix",
     "prepare": "husky install"
@@ -46,8 +47,10 @@
     "cz-git": "^1.7.1",
     "eslint": "^8.55.0",
     "eslint-plugin-vue": "^9.19.2",
+    "gh-pages": "^6.3.0",
     "husky": "^8.0.0",
-    "lint-staged": "^15.1.0"
+    "lint-staged": "^15.1.0",
+    "vitepress-sidebar": "^1.31.1"
   },
   "peerDependencies": {
     "vitepress": "^1.0.0-rc.31"
@@ -67,7 +70,7 @@
     "date-fns": "^2.30.0",
     "postcss": "^8.4.32",
     "tailwindcss": "^3.3.5",
-    "vitepress": "^1.1.4",
+    "vitepress": "^1.0.0-rc.31",
     "vue": "^3.3.9"
   },
   "config": {

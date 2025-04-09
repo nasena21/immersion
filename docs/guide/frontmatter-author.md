@@ -1,3 +1,8 @@
+---
+title: Author Front Matter 
+order: 2
+---
+
 # Author Front Matter
 
 Each author at the top of its Markdown file can have frontmatter set. You can use any frontmatter provided by VitePress as well. These are the ones that VitePress Blog deals with.

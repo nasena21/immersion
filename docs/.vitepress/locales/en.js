@@ -10,30 +10,13 @@ export default {
         nav: [
             {
                 text: 'Guide',
-                link: '/guide/what-is-vitepress-blog',
+                link: '/guide/what-is-immersion',
                 activeMatch: '/guide/',
             },
             {
                 text: 'Reference',
                 link: '/reference/config',
                 activeMatch: '/reference/',
-            },
-            {
-                text: 'Examples',
-                items: [
-                    {
-                        text: 'Markdown',
-                        link: '/markdown-examples',
-                    },
-                    {
-                        text: 'api-examples',
-                        link: '/api-examples',
-                    },
-                    {
-                        text: 'Theme Test',
-                        link: '/theme-test',
-                    },
-                ],
             },
             {
                 text: 'Blog',
@@ -110,8 +93,8 @@ function sidebarGuide() {
             collapsed: false,
             items: [
                 {
-                    text: 'What is VitePress Blog?',
-                    link: '/guide/what-is-vitepress-blog',
+                    text: 'What is Immersion?',
+                    link: '/guide/what-is-immersion',
                 },
                 { text: 'Getting Started', link: '/guide/getting-started' },
                 { text: 'Credits', link: '/guide/credits' },

@@ -1,3 +1,9 @@
+---
+title: Credits 
+order: 1
+---
+
+
 # Credits
 
 We all learn and build off of each other's code. I try to always give credit where due.

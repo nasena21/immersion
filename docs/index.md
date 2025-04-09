@@ -14,7 +14,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /guide/what-is-vitepress-blog
+      link: /guide/what-is-immersion
     - theme: alt
       text: View on GitHub
       link: https://github.com/chunge16/vitepress-blogs-theme

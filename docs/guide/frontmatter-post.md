@@ -1,3 +1,8 @@
+---
+title:  Post Front Matter
+order: 3
+---
+
 # Post Front Matter
 
 Each post at the top of its Markdown file can have `frontmatter` set. You can use any [frontmatter](https://vitepress.dev/reference/frontmatter-config) provided by VitePress as well. These are the ones that VitePress Blog deals with.

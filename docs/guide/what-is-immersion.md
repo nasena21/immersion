@@ -1,3 +1,7 @@
+---
+title: # What is VitePress Blog?
+order: 6
+---
 # What is VitePress Blog?
 
 VitePress Blog is a blog theme for [VitePress](https://www.vitepress.dev). It adds to the incredible features in `VitePress` allowing you to easily add a simple blog to the standard VitePress site. Your content can be written in [Markdown](https://en.wikipedia.org/wiki/Markdown), with some useful `frontmatter` at the beginning of it
