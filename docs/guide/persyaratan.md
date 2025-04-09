@@ -21,8 +21,8 @@ Untuk smartphone bisa memakai Kiwi atau browser lainnya yang bisa menginstall Go
 
 ## Anki
 
-- [Anki](docs\setup\sentence-mining\anki.md) (Aplikasi SRS Flashcard)
+- Anki (Aplikasi SRS Flashcard)
 
 ## Yomitan
 
-- [Yomitan](docs\setup\sentence-mining\yomitann.mdx) (Pop Up Dictionary)
+- Yomitan (Pop Up Dictionary)

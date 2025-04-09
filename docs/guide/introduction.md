@@ -30,8 +30,8 @@ Berikut ini adalah 7 langkah untuk mempelajari bahasa Jepang menggunakan metode 
 
 1. [Kana](kana.md)
 2. [Kosakata](kosakata.md)
-3. [Kanji](Kanji.md)
-4. [Grammar](Grammar.md)
+3. [Kanji](kanji.md)
+4. [Grammar](grammar.md)
 5. [Immersion](immersion.md)
 6. [Sentence Mining](sentence-mining.md)
 7. [Output](output.md)
