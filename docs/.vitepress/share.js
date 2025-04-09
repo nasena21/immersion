@@ -45,7 +45,7 @@ export const shareConfig = defineConfig({
         socialLinks: [
             {
                 icon: 'github',
-                link: 'https://github.com/chunge16/vitepress-blogs-theme',
+                link: 'https://github.com/nasena21/immersion',
             },
         ],
         search: {
