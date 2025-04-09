@@ -14,8 +14,7 @@
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "docs:deploy": "vitepress build docs && gh-pages -d docs/.vitepress/dist",
-    "commit": "git add -A && czg",
-    "lint:eslint": "eslint . --ext .ts,.js,.vue --fix",
+    "commit": "git add -A && czg"
   },
   "author": "chunge16 (https://github.com/chunge16)",
   "license": "MIT",
