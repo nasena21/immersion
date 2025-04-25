@@ -6,19 +6,29 @@ title: Apa itu Immersion?
 
 Immersion adalah pendekatan belajar bahasa yang berfokus pada memperoleh bahasa melalui paparan alami terhadap konten bahasa Jepang secara langsung tanpa melalui terjemahan atau subtitle, seperti cara kita belajar bahasa pertama kita sebagai bayi. 
 
-Alih-alih menghafal kosakata dan aturan tata bahasa secara terpisah, kita menyelami bahasa tersebut dengan mendengarkan dan membaca hingga kita mulai memahaminya. Seiring waktu, kita mulai bisa berbicara dan berpikir dalam bahasa tersebut, seringkali tanpa perlu mengingat aturan-aturan secara sadar.
+Coba ingat-ingat lagi saat kita masih kecil.
+
+Orang tua kita tidak pernah mengajarkan kita seperti 
+
+👩:"Nak, nanti kalau ngomong, kamu harus pakai struktur SPOK ya"
+
+Sebaliknya, mereka selalu mengulangi kata-kata yang sama terus-menerus hingga kita terbiasa dan menirukannya. Itulah alasannya kenapa kata pertama yang sering diucapkan bayi adalah mama atau papa. Karena orang tua mereka sering kali mengulang kata itu sampai ratusan atau bahkan hingga ribuan kali.
+
+Daripada hanya fokus menghafal kosakata dan aturan tata bahasa yang sudah disediakan di textbook, kita menambahkan kegiatan lain dengan menyelami bahasa tersebut dengan mendengarkan dan membaca konten berbahasa jepang secara konsisten. Seiring waktu, kita mulai bisa berbicara dan berpikir dalam bahasa tersebut, seringkali tanpa perlu mengingat aturan-aturan secara sadar.
 
 ## 🧠 Apa yang Terjadi Saat Melakukan Immersion?
 
-Saat melakukan Immersion dalam bahasa Jepang, kita tidak hanya belajar dari Textbook atau kartu flash. Sebaliknya, kita dikelilingi oleh konten yang awalnya dibuat untuk penutur asli. Konten ini bisa berupa anime, light novel, manga, atau bahkan percakapan. Dengan terus-menerus terpapar pada bahasa tersebut, kita mulai mengenali pola-pola, mempelajari frasa umum, dan akhirnya memahami tata bahasa dalam konteks. 
+Saat melakukan Immersion dalam bahasa Jepang, kita tidak hanya belajar dari textbook. Sebaliknya, kita dikelilingi oleh konten yang sejak awal dibuat untuk orang Jepang. 
 
-Seperti bayi yang belajar berbicara sebelum bisa membaca atau menulis, kita mulai dengan mendengarkan, membaca, dan menyerap bahasa Jepang secara alami. Otak kita mulai memproses bahasa dengan cara yang sama seperti cara kita memproses bahasa pertama kita, belajar makna dari konteks daripada mengandalkan terjemahan.
+Konten ini bisa berupa anime, light novel, manga, atau bahkan percakapan. Dengan terus-menerus terpapar pada konten tersebut, kita akan mempelajari bahasa Jepang yang benar-benar digunakan oleh orang Jepang, bukan belajar sekumpulan kalimat yang sangat kaku yang bahkan tidak pernah digunakan oleh orang Jepang itu sendiri.
+
+Seperti bayi yang belajar berbicara sebelum bisa membaca atau menulis, kita mulai dengan mendengarkan, membaca, dan menyerap bahasa Jepang secara alami. Otak kita mulai memproses bahasa dengan cara yang sama seperti cara kita memproses bahasa pertama kita, belajar bahasa melalui konteks.
 
 ## 📚 Bagaimana Immersion Berbeda dari Pembelajaran Tradisional?
 
 Kelas bahasa tradisional sering kali memaksa siswa untuk berbicara bahasa tersebut sebelum mereka benar-benar memahaminya. Hal ini bisa menimbulkan frustrasi dan kebingungan karena siswa diharapkan untuk menghasilkan kalimat atau berbicara dalam situasi nyata tanpa pondasi yang cukup.
 
-Sebaliknya, Immersion memungkinkan kita untuk *memahami* bahasa terlebih dahulu. Ini seperti belajar berjalan sebelum berlari. Kita mulai dengan mendengarkan dan membaca banyak bahasa Jepang, yang membantu kita mengembangkan rasa bahasa yang alami. Seiring kita semakin nyaman, berbicara dan menulis akan menjadi lebih mudah.
+Sebaliknya, Immersion memungkinkan kita untuk *memahami* bahasa terlebih dahulu. Ini seperti belajar berjalan sebelum berlari. Kita mulai dengan mendengarkan dan membaca banyak bahasa Jepang, yang membantu kita mengembangkan insting bahasa yang alami. Seiring kita semakin nyaman, berbicara dan menulis akan menjadi lebih mudah.
 
 Tidak ada yang salah dengan melatih bicara sejak awal, semua itu tergantung tujuan masing-masing. Kalau tujuan seseorang ingin bekerja di Jepang, maka mereka tidak bisa menunggu lama untuk memahami bahasanya terlebih dahulu, mereka tidak punya pilihan selain menghafal sekumpulan kalimat-kalimat yang sudah disiapkan di dalam textbook mereka. 
 
@@ -28,27 +38,31 @@ Sementara metode immersion tidak memiliki tuntutan atau tekanan seperti itu. Set
 
 Textbook bukanlah hal yang buruk, tetapi sering kali menekankan pada hafalan kosakata dan frasa yang sangat kaku, yang bisa terasa aneh jika dibandingkan dengan bahasa yang dipakai di kehidupan sehari-hari. 
 
-Dalam Immersion, kita tidak fokus untuk menyempurnakan aturan tata bahasa dari awal; sebaliknya, kita belajar tata bahasa saat kita melihat dan mendengarnya dalam konteks. Ini membuatnya lebih mudah diingat karena terikat pada konteks yang nyata.
+Dalam Immersion, fokus kita berbeda, kita belajar tata bahasa hanya dengan membaca textbook saja, tapi kita juga belajar saat kita melihat dan mendengarnya dalam konteks. Ini membuatnya lebih mudah diingat karena terikat pada konteks yang nyata.
 
 Meski begitu, Textbook masih bisa berguna sebagai alat tambahan, terutama setelah kita membangun fondasi yang solid melalui Immersion. Textbook bisa membantu memperjelas aturan atau poin tata bahasa tertentu yang kita temui selama perjalanan belajar kita.
 
 ## ⚖️ Immersion vs Pembelajaran Tradisional
 
-Kadang-kadang, komunitas Immersion sering berbicara hal yang buruk tentang Textbook, tetapi ini bukan berarti mereka sepenuhnya menghindari textbook. Mereka tetap membaca Textbook, namun perbedaannya adalah orang yang belajar dengan metode tradisional cenderung membatasi diri mereka hanya pada Textbook tertentu atau materi yang diajarkan dalam kelas yang kaku. 
+Kadang-kadang, komunitas Immersion sering berbicara hal yang buruk tentang Textbook, tetapi ini bukan berarti mereka sepenuhnya menghindari atau membenci textbook. Textbook tetap jadi salah satu hal yang paling berguna dalam belajar bahasa Jepang.
 
-Bahkan setelah lulus dari kelas, mereka tetap terjebak pada buku yang sama dan tidak beralih ke konten asli atau konten yang lebih alami. Hal ini menghalangi mereka untuk benar-benar mengetahui bagaimana bahasa tersebut dipakai secara natural, bukan hanya sekumpulan kosakata yang sudah disusun di dalam textbook.
+Mereka tetap membaca Textbook, namun perbedaannya adalah orang yang belajar dengan metode tradisional cenderung membatasi diri mereka hanya pada Textbook tertentu atau materi yang diajarkan dalam kelas. 
 
-Sebaliknya, Immersion mengajak kita untuk melangkah keluar dari zona nyaman dan mencari konten asli yang digunakan oleh penutur asli bahasa tersebut, yang lebih kaya dan alami.
+Bahkan setelah lulus dari kelas, mereka tetap terjebak pada buku yang sama dan tidak beralih ke konten asli atau konten yang lebih alami. Hal ini menghalangi mereka untuk berkembang dan mencapai level yang lebih tinggi.
 
-## 🤔 Mengapa Memilih Immersion?
+"kegilaan adalah melakukan hal yang sama berulang-ulang dan mengharapkan hasil yang berbeda"
 
-Kunci keberhasilan Immersion adalah menemukan metode yang cocok dengan gaya hidup kita dan tidak membutuhkan waktu berlebihan untuk mengatur alat atau sistem yang rumit. Semakin sederhana dan mudah diakses metode Immersion, semakin mudah kita untuk terus melakukannya.
+Sebaliknya, metode Immersion selain mempelajari textbook, metode Immersion juga mewajibkan kita untuk melangkah keluar dari textbook dan mengkonsumsi konten berbahasa Jepang.
+
+## 🤔 Kegiatan Immersion itu apa saja?
+
+Kunci keberhasilan Immersion adalah menemukan metode yang cocok dan sederhana. Maksud dari sederhana adalah tidak membutuhkan waktu berlebihan untuk mengatur alat atau sistem yang rumit. Semakin sederhana dan mudah diakses metode Immersion, semakin mudah kita untuk terus melakukannya.
 
 Berikut adalah urutan kegiatan Immersion yang direkomendasikan, dimulai dari yang paling mudah dan paling dapat diakses:
 
-1. **Membaca Light Novel** 📖: Light Novel adalah titik masuk yang bagus karena mereka menawarkan campuran bahasa yang sederhana dan cerita yang menarik. Mulailah dengan novel yang ramah pemula yang menggunakan furigana untuk membantu membaca kanji. Selain itu kamu tidak memerlukan banyak aplikasi untuk melakukan immersion menggunakan light novel.
+1. **Membaca Light Novel** 📖: Light Novel adalah titik masuk yang bagus karena tidak memerlukan setup yang rumit. Mulailah dengan novel dengan topik yang ramah pemula, seperti Slice of Life. Novel dengan topik seperti sihir atau militer sebaiknya dihindari, karena novel dengan tema seperti itu memiliki kosakata yang rumit dan kanji yang sangat jarang di pakai di kehidupan sehari-hari.
    
-2. **Menonton Anime** 🍿: Menonton anime memberi kita kesempatan untuk mendengar bahasa tersebut dalam berbagai konteks dan mempelajari ekspresi sehari-hari. Cobalah menonton dengan subtitle bahasa Jepang untuk tingkat pemahaman yang lebih tinggi. Melakukan immersion menggunakan anime sedikit lebih rumit jika dibandingkan dengan light novel, tapi tetap masih bisa diikuti oleh siapapun.
+2. **Menonton Anime** 🍿: Menonton anime akan melatih kemampuan listening kita. Tapi selain itu, menonton anime juga bisa membantu meningkatkan kemampuan kita membaca bahasa Jepang jika kita menontonnya menggunakan subtitle Jepang. Setup untuk menonton anime juga tidak rumit. Hanya dengan memakai Netflix saja sudah bisa membuat kita menonton anime dengan subtitle Jepang.
    
 3. **Bermain Visual Novel** 🎮: Visual novel memberikan pengalaman yang lebih interaktif, memberi kesempatan untuk membaca dan kadang-kadang berbicara bersama karakter. Mereka sering memiliki dialog yang kaya dan berbobot, yang membantu memperdalam pemahaman kita. Melakukan immersion dengan bermain visual novel adalah hal yang sangat berbeda jika dibandingkan dengan light novel dan menonton anime. Kamu harus melakukan effort lebih banyak untuk bisa menyediakan semua peralatan yang diperlukan.
    

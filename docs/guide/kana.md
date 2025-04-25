@@ -1,25 +1,20 @@
----
-sidebar_position: 2
-sidebar_label: 'Kana'
----
-
 # Hiragana dan Katakana
-Bahasa Jepang Memiliki tiga jenis huruf: Hiragana, Katakana, dan Kanji. 
-Langkah pertama dalam mempelajari bahasa Jepang adalah menguasai (membaca dan menulis) Hiragana dan Katakana terlebih dahulu. 
 
+Bahasa Jepang memiliki tiga jenis huruf: **Hiragana**, **Katakana**, dan **Kanji**.  
+Langkah pertama dalam mempelajari bahasa Jepang adalah menguasai **Hiragana** dan **Katakana** terlebih dahulu, baik dalam membaca maupun menulis.
 
 ![kana](/guide/img/hiragana-katakana.jpg)
 
-## Hiragana 
+---
 
-Hiragana digunakan untuk menulis kata-kata asli bahasa Jepang, partikel, okurigana (akhiran kata yang terdiri dari kanji dan hiragana) dan furigana (panduan pengucapan).
+## Hiragana
 
+**Hiragana** digunakan untuk menulis kata-kata asli bahasa Jepang, partikel, okurigana (akhiran kata berupa hiragana setelah kanji), dan furigana (panduan pengucapan di atas/bawah kanji).
 
-### Huruf Hiragana Dasar
-Hiragana memiliki 46 huruf dasar.
+### Huruf Dasar Hiragana (46 huruf)
 
-| a  | i  | u  | e  | o  |
-|----|----|----|----|----|
+| A | I | U | E | O |
+|---|---|---|---|---|
 | あ (a) | い (i) | う (u) | え (e) | お (o) |
 | か (ka) | き (ki) | く (ku) | け (ke) | こ (ko) |
 | さ (sa) | し (shi) | す (su) | せ (se) | そ (so) |
@@ -34,36 +29,37 @@ Hiragana memiliki 46 huruf dasar.
 
 ---
 
-### Dakuon  (゛)
-Dakuon  menambahkan tanda (゛) untuk mengubah bunyi tertentu. 
+### Dakuon (゛)
 
-Ada 20 huruf tambahan.
+Dakuon menambahkan tanda ゛ pada beberapa huruf untuk mengubah bunyinya menjadi bersuara.  
+Ada 20 huruf tambahan:
 
-| a  | i  | u  | e  | o  |
-|---------|----|----|----|----|
+| A | I | U | E | O |
+|---|---|---|---|---|
 | が (ga) | ぎ (gi) | ぐ (gu) | げ (ge) | ご (go) |
 | ざ (za) | じ (ji) | ず (zu) | ぜ (ze) | ぞ (zo) |
 | だ (da) | ぢ (ji) | づ (dzu) | で (de) | ど (do) |
 | ば (ba) | び (bi) | ぶ (bu) | べ (be) | ぼ (bo) |
 
 ### Handakuon (゜)
-Handakuon menambahkan tanda (゜) hanya untuk huruf baris は.
 
-Ada 5 huruf tambahan.
-|  a  | i  | u  | e  | o  |
-|-----------|----|----|----|----|
+Handakuon menambahkan tanda ゜ dan hanya berlaku pada baris は.  
+Ada 5 huruf tambahan:
+
+| A | I | U | E | O |
+|---|---|---|---|---|
 | ぱ (pa) | ぴ (pi) | ぷ (pu) | ぺ (pe) | ぽ (po) |
 
 ---
 
-### Youon (Kombinasi dengan Huruf kecil や (ya), ゆ (yu), よ (yo) )
+### Youon (Kombinasi ゃ, ゅ, dan ょ)
 
-Youon adalah kombinasi huruf kecil ゃ (ya), ゅ (yu), よ (yo) dengan baris k, s, t, n, h, m, r, g, j, b, p.
+Youon adalah kombinasi dari huruf kecil ゃ (ya), ゅ (yu), dan ょ (yo) dengan konsonan tertentu (k, s, t, n, h, m, r, g, j, b, p).
 
-Terdapat 36 kombinasi.
+Terdapat 36 kombinasi:
 
-| YA | YU  | YO  |
-|------------|----|----|
+| YA | YU | YO |
+|----|----|----|
 | きゃ (kya) | きゅ (kyu) | きょ (kyo) |
 | しゃ (sha) | しゅ (shu) | しょ (sho) |
 | ちゃ (cha) | ちゅ (chu) | ちょ (cho) |
@@ -76,110 +72,111 @@ Terdapat 36 kombinasi.
 | びゃ (bya) | びゅ (byu) | びょ (byo) |
 | ぴゃ (pya) | ぴゅ (pyu) | ぴょ (pyo) |
 
+---
 
-Kesimpulan 
-Huruf Dasar = 46
-Dakuon = 20
-Handakuon = 5
-Youon = 36 
-Total = 46+20+5+36 = 107
+### Ringkasan
 
+- Huruf Dasar: 46  
+- Dakuon: 20  
+- Handakuon: 5  
+- Youon: 36  
 
-[Hiragana](https://www.nhk.or.jp/lesson/id/letters/hiragana.html)
+**Total: 107 huruf**
 
-[Download PDF](https://www.nhk.or.jp/lesson/id/pdf/textbook_kana_all.pdf#page=1)
+🔗 [Belajar Hiragana - NHK](https://www.nhk.or.jp/lesson/id/letters/hiragana.html)  
+📄 [Download PDF Hiragana](https://www.nhk.or.jp/lesson/id/pdf/textbook_kana_all.pdf#page=1)
+
+---
 
 ## Katakana
 
-Katakana digunakan untuk menulis kata serapan dari bahasa asing, onomatope, istilah ilmiah, dan penekanan dalam tulisan (seperti huruf miring dalam bahasa Inggris).
+**Katakana** digunakan untuk menulis:
 
-### Huruf Katakana Dasar
-Katakana memiliki 46 huruf dasar.
-| A  | I  | U  | E  | O  |
-|----|----|----|----|----|
-| ア (A) | イ (I) | ウ (U) | エ (E) | オ (O) |
-| カ (Ka) | キ (Ki) | ク (Ku) | ケ (Ke) | コ (Ko) |
-| サ (Sa) | シ (Shi) | ス (Su) | セ (Se) | ソ (So) |
-| タ (Ta) | チ (Chi) | ツ (Tsu) | テ (Te) | ト (To) |
-| ナ (Na) | ニ (Ni) | ヌ (Nu) | ネ (Ne) | ノ (No) |
-| ハ (Ha) | ヒ (Hi) | フ (Fu) | ヘ (He) | ホ (Ho) |
-| マ (Ma) | ミ (Mi) | ム (Mu) | メ (Me) | モ (Mo) |
-| ヤ (Ya) | — | ユ (Yu) | — | ヨ (Yo) |
-| ラ (Ra) | リ (Ri) | ル (Ru) | レ (Re) | ロ (Ro) |
-| ワ (Wa) | — | — | — | ヲ (Wo) |
-| ン (N) | — | — | — | — |
+- Kata serapan dari bahasa asing  
+- Onomatope (kata tiruan suara)  
+- Istilah ilmiah dan teknis  
+- Penekanan dalam tulisan (seperti huruf miring di bahasa Inggris)
 
----
+### Huruf Dasar Katakana (46 huruf)
 
-### Dakuon  (゛) 
-Dakuon menambahkan tanda (゛) untuk mengubah bunyi tertentu. 
-
-Ada 20 huruf tambahan.
-
-| A  | I  | U  | E  | O  |
-|---------|----|----|----|----|
-| ガ (Ga) | ギ (Gi) | グ (Gu) | ゲ (Ge) | ゴ (Go) |
-| ザ (Za) | ジ (Ji) | ズ (Zu) | ゼ (Ze) | ゾ (Zo) |
-| ダ (Da) | ヂ (Ji) | ヅ (Dzu) | デ (De) | ド (Do) |
-| バ (Ba) | ビ (Bi) | ブ (Bu) | ベ (Be) | ボ (Bo) |
-
-###  Handakuon (゜)
-Handakuon menambahkan tanda (゜) hanya untuk huruf baris ハ.
-
-Ada 5 huruf tambahan.
-| A  | I  | U  | E  | O  |
-|-----------|----|----|----|----|
-| パ (Pa) | ピ (Pi) | プ (Pu) | ペ (Pe) | ポ (Po) |
+| A | I | U | E | O |
+|---|---|---|---|---|
+| ア (a) | イ (i) | ウ (u) | エ (e) | オ (o) |
+| カ (ka) | キ (ki) | ク (ku) | ケ (ke) | コ (ko) |
+| サ (sa) | シ (shi) | ス (su) | セ (se) | ソ (so) |
+| タ (ta) | チ (chi) | ツ (tsu) | テ (te) | ト (to) |
+| ナ (na) | ニ (ni) | ヌ (nu) | ネ (ne) | ノ (no) |
+| ハ (ha) | ヒ (hi) | フ (fu) | ヘ (he) | ホ (ho) |
+| マ (ma) | ミ (mi) | ム (mu) | メ (me) | モ (mo) |
+| ヤ (ya) | — | ユ (yu) | — | ヨ (yo) |
+| ラ (ra) | リ (ri) | ル (ru) | レ (re) | ロ (ro) |
+| ワ (wa) | — | — | — | ヲ (wo) |
+| ン (n) | — | — | — | — |
 
 ---
 
-### Youon (Kombinasi dengan Huruf kecil ヤ (Ya), ユ (Yu), ヨ (Yo) )
+### Dakuon (゛)
 
-Youon adalah kombinasi huruf kecil ヤ (Ya), ユ (Yu), ヨ (Yo) dengan baris k, s, t, n, h, m, r, g, j, b, p.
+| A | I | U | E | O |
+|---|---|---|---|---|
+| ガ (ga) | ギ (gi) | グ (gu) | ゲ (ge) | ゴ (go) |
+| ザ (za) | ジ (ji) | ズ (zu) | ゼ (ze) | ゾ (zo) |
+| ダ (da) | ヂ (ji) | ヅ (dzu) | デ (de) | ド (do) |
+| バ (ba) | ビ (bi) | ブ (bu) | ベ (be) | ボ (bo) |
 
-Terdapat 36 kombinasi.
+### Handakuon (゜)
 
-| YA  | YU  | YO  |
-|------------|----|----|
-| キャ (Kya) | キュ (Kyu) | キョ (Kyo) |
-| シャ (Sha) | シュ (Shu) | ショ (Sho) |
-| チャ (Cha) | チュ (Chu) | チョ (Cho) |
-| ニャ (Nya) | ニュ (Nyu) | ニョ (Nyo) |
-| ヒャ (Hya) | ヒュ (Hyu) | ヒョ (Hyo) |
-| ミャ (Mya) | ミュ (Myu) | ミョ (Myo) |
-| リャ (Rya) | リュ (Ryu) | リョ (Ryo) |
-| ギャ (Gya) | ギュ (Gyu) | ギョ (Gyo) |
-| ジャ (Ja) | ジュ (Ju) | ジョ (Jo) |
-| ビャ (Bya) | ビュ (Byu) | ビョ (Byo) |
-| ピャ (Pya) | ピュ (Pyu) | ピョ (Pyo) |
+| A | I | U | E | O |
+|---|---|---|---|---|
+| パ (pa) | ピ (pi) | プ (pu) | ペ (pe) | ポ (po) |
 
-Kesimpulan 
-Huruf Dasar = 46
-Dakuon = 20
-Handakuon = 5
-Youon = 36 
-Total = 46+20+5+36 = 107
+---
 
+### Youon (Kombinasi ャ, ュ, dan ョ)
 
+Youon pada Katakana juga terdiri dari 36 kombinasi:
 
-[Katakana](https://www.nhk.or.jp/lesson/id/letters/katakana.html) 
+| YA | YU | YO |
+|----|----|----|
+| キャ (kya) | キュ (kyu) | キョ (kyo) |
+| シャ (sha) | シュ (shu) | ショ (sho) |
+| チャ (cha) | チュ (chu) | チョ (cho) |
+| ニャ (nya) | ニュ (nyu) | ニョ (nyo) |
+| ヒャ (hya) | ヒュ (hyu) | ヒョ (hyo) |
+| ミャ (mya) | ミュ (myu) | ミョ (myo) |
+| リャ (rya) | リュ (ryu) | リョ (ryo) |
+| ギャ (gya) | ギュ (gyu) | ギョ (gyo) |
+| ジャ (ja) | ジュ (ju) | ジョ (jo) |
+| ビャ (bya) | ビュ (byu) | ビョ (byo) |
+| ピャ (pya) | ピュ (pyu) | ピョ (pyo) |
 
-[Download PDF](https://www.nhk.or.jp/lesson/id/pdf/textbook_kana_all.pdf#page=2)
+---
 
-## Latihan 
+### Ringkasan
 
-Ada dua skill yang bisa didapatkan ketika mempelajari hiragana dan katakana.
-1. Recognition - Mengenali huruf hiragana/katakana dan bisa membaca ketika melihatnya.
-2. Production - Dapat menulis huruf hiragana/katakana tanpa mencontek.
+- Huruf Dasar: 46  
+- Dakuon: 20  
+- Handakuon: 5  
+- Youon: 36  
 
-Untuk skill production, tidak ada cara lain selain dengan latihan menulis hiragana dan katakana menggunakan tangan.
+**Total: 107 huruf**
 
-Sementara untuk skill recognition, kalian bisa melatihnya menggunakan beberapa website di bawah ini.
+🔗 [Belajar Katakana - NHK](https://www.nhk.or.jp/lesson/id/letters/katakana.html)  
+📄 [Download PDF Katakana](https://www.nhk.or.jp/lesson/id/pdf/textbook_kana_all.pdf#page=2)
 
-[Kana Chan](https://kana-chan.com/)
+---
 
-[Kana Pro](https://kana.pro/)
+## Latihan
 
-[Kuuuube](https://kuuuube.github.io/kana-quiz/kana/kana-dark/index.html)
+Saat mempelajari kana, kamu akan mengembangkan dua kemampuan:
 
-[Kana Game](https://vedxyz.github.io/kana/)
+1. **Recognition** – mengenali huruf dan bisa membaca dengan cepat.
+2. **Production** – bisa menulis huruf dari ingatan tanpa mencontek.
+
+✍️ Untuk **production**, cara terbaik adalah menulis manual dengan tangan secara rutin.  
+👀 Untuk **recognition**, kamu bisa latihan melalui situs berikut:
+
+- [Kana Chan](https://kana-chan.com/)
+- [Kana Pro](https://kana.pro/)
+- [Kuuuube Quiz](https://kuuuube.github.io/kana-quiz/kana/kana-dark/index.html)
+- [Kana Game](https://vedxyz.github.io/kana/)

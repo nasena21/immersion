@@ -86,8 +86,8 @@ function sidebarGuide() {
             items: [
                 { text: 'Welcome', link: '/guide/welcome' },
                 { text: 'Mindset dan Motivasi', link: '/guide/mindset-motivasi' },
-                { text: 'Beginner Mistakes', link: '/guide/beginner-mistake' },
-                { text: 'What is Immersion?', link: '/guide/what-is-immersion' },
+                { text: 'Kesalahan Pemula', link: '/guide/beginner-mistake' },
+                { text: 'Apa itu Immersion?', link: '/guide/what-is-immersion' },
                 { text: 'Getting Started', link: '/guide/getting-started' },
                 { text: 'FAQ', link: '/guide/faq' },
                 { text: 'Credits', link: '/guide/credits' },
@@ -97,8 +97,8 @@ function sidebarGuide() {
             text: 'Core Guide',
             collapsed: false,
             items: [
-                { text: 'Learning Stages', link: '/guide/learning-stages' },
-                { text: 'Introduction', link: '/guide/introduction' },
+                { text: 'Tahapan Belajar', link: '/guide/learning-stages' },
+                { text: 'Persyaratan', link: '/guide/persyaratan' },
                 { text: 'Kana', link: '/guide/kana' },
                 { text: 'Kanji', link: '/guide/kanji' },
                 { text: 'Vocabulary & Sentence Mining', link: '/guide/vocab-sentence-mining' },

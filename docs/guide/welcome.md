@@ -26,7 +26,7 @@ Metode Immersion adalah cara belajar bahasa dengan **mengkonsumsi konten berbaha
 - Video YouTube 📱
 
 
-Alih-alih menghafal dari buku teks, kita akan **membiasakan otak kita dengan bahasa Jepang** seperti layaknya anak kecil belajar bahasa ibu mereka.
+Daripada menghafal dari textbook yang membosankan, kita akan **membiasakan otak kita dengan bahasa Jepang** seperti layaknya anak kecil belajar bahasa ibu mereka.
 
 ---
 
@@ -46,14 +46,6 @@ Metode ini cocok untuk:
 - Tips belajar kanji, grammar, dan kosakata dari konten berbahasa Jepang
 - Alat bantu seperti Anki, subtitle tools, dan lain-lain
 - Artikel dan blog dari pengalaman pribadi belajar Jepang dengan immersion
-
----
-
-## 🦆 Siap Belajar Bareng Duck-chan?
-
-![](/duck.png)
-
-Bersama Duck-chan, si bebek imut yang juga sedang belajar bahasa Jepang, kita akan jalan bareng di perjalanan ini. 💻✨
 
 ---
 

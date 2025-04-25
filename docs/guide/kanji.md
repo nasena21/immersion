@@ -1,85 +1,63 @@
----
-sidebar_position: 3
-sidebar_label: 'Kanji'
----
-
 # Kanji
 
-## Kesalahpahaman Tentang Kanji
+## ❌ Kesalahpahaman Tentang Kanji
+
+Kanji sering dianggap sebagai rintangan terbesar dalam mempelajari bahasa Jepang. Banyak orang menyerah karena merasa kanji terlalu sulit. Tapi sebenarnya, keberhasilan kamu dalam belajar bahasa Jepang sangat bergantung pada seberapa baik kamu memahami dan menguasai kanji. 💪
+
+**Apakah kanji susah?**
+
+Iya, tapi tidak sesusah yang kamu bayangkan. Banyak konten di media sosial membesar-besarkan betapa rumitnya kanji—terutama dengan menunjukkan bahwa satu kanji bisa memiliki banyak cara baca. Mereka sering mengimplikasikan bahwa kamu harus menghafal semua on-yomi dan kun-yomi untuk bisa membaca bahasa Jepang. 🚫
+
+Aku sendiri pernah terjebak dengan mindset seperti itu. Jika aku tahu bahwa menghafal semua cara baca **tidak** membuatmu bisa membaca, aku tidak akan membuang waktuku dengan sia-sia.
+
+Masalah utama adalah: banyak orang tidak tahu **kenapa** mereka belajar kanji, dan mereka tidak menggunakan metode yang sesuai dengan tujuan mereka. Dari pengalamanku, ada dua metode utama dalam mempelajari kanji. Yang paling penting adalah kamu menentukan tujuanmu, lalu memilih metode yang tepat. 🎯
+
+---
 
 
+## 🧩 Metode Isolasi
 
-Kanji adalah salah satu rintangan terbesar dalam mempelajari bahasa Jepang. Keberhasilan seseorang dalam mempelajari bahasa Jepang ditentukan oleh kanji. Selama kamu bisa menguasai kanji dan mengerti bagaimana cara kerja kanji yang sebenarnya, kamu sudah pasti akan berhasil dalam belajar bahasa Jepang.
-
-Apakah kanji susah? 
-
-Iya, tapi tidak sesusah yang kamu bayangkan, atau sesusah yang biasanya ditunjukkan oleh konten kreator di sosial media. Konten-konten tentang bahasa Jepang yang sering bertebaran di sosial media seringkali menampilkan betapa rumitnya bahasa Jepang dengan menunjukkan kanji yang memiliki cara baca yang sangat banyak. Banyak sekali konten missleading di luar sana yang mengimplikasikan kalau untuk bisa membaca kanji harus hafal semua on-yomi dan kun-yomi dari sebuah kanji. 
-
-Aku adalah korban dari konten-konten seperti itu, kalau aku tidak memiliki mindset bahwa aku harus menghafal on-yomi dan kun-yomi untuk bisa membaca kanji, maka aku yakin aku tidak akan menghabiskan waktuku dengan sia-sia. Menghafal On yomi dan Kun Yomi dari sebuah kanji tidak akan membuatmu bisa membaca bahasa Jepang.
-
-Alasan seseorang gagal mempelajari kanji adalah mereka tidak tahu tujuan mereka mempelajari kanji itu untuk apa, dan kalaupun mereka tahu, mereka tidak menggunakan metode yang bisa mewujudkan tujuan mereka menjadi kenyataan. 
-
-Berdasarkan pengalamanku, setidaknya kanji bisa dipelajari menggunakan 2 metode, dan setiap metode memiliki tujuan masing-masing. Tahap inilah yang paling penting, kamu harus tahu tujuan kamu dan memilih metode yang benar. 
-
-## Metode Isolasi
-
-Metode Isolasi adalah metode mempelajari kanji secara individual dan terpisah dari kanji lainnya. Sebagai contoh lihatlah gambar di bawah ini.
+Metode ini mempelajari kanji secara individual, terlepas dari konteks atau kata. Contohnya bisa kamu lihat di gambar berikut:
 
 ![Isolation](/guide/img/natsu.png)
 
-Gambar di atas menunjukkan berbagai informasi tentang kanji 夏. 
-Hal yang bisa kita pelajari dari informasi tersebut adalah 
-1. Arti 
-2. Kun-yomi (Bacaan Jepang)
-3. On-yomi (Bacaan China)
-3. Stroke Order, urutan menulis yang benar
-4. Radical, komponen dasar yang disusun untuk membentuk kanji. 
+Dari informasi tersebut, kamu bisa mempelajari:
+1. **Arti**
+2. **Kun-yomi** (bacaan Jepang)
+3. **On-yomi** (bacaan China)
+4. **Stroke Order** (urutan penulisan)
+5. **Radical** (komponen dasar)
 
-Tujuan dari metode isolasi adalah mengetahui informasi lengkap tentang sebuah kanji.
+Tujuan metode isolasi adalah mengetahui informasi lengkap tentang satu kanji. Tapi...
 
-Lalu apakah metode isolasi bisa membuat seseorang bisa membaca kanji?
+> ❗ Hanya karena kamu hafal on-yomi dan kun-yomi, **bukan berarti kamu bisa membaca kanji**.
 
-Tidak bisa. 
+Tujuan dari metode isolasi adalah untuk mengetahui semua detail tentang sebuah kanji. Namun, **mempelajari kanji secara isolasi tidak membuatmu langsung bisa membaca**.  
+Menghafal on-yomi dan kun-yomi saja tidak cukup, karena:
+- **Cara baca** kanji dapat berubah-ubah tergantung konteks atau okurigana yang menyertainya.
 
-Hanya karena kamu hafal On-yomi dan Kun-yomi dari sebuah kanji tidak akan membuat kamu secara instan bisa membaca kanji. 
+**Contoh:**
+- Kanji **夏** dibaca **なつ (natsu)**
+- Pada kata **初夏 (しょか)**, kanji **夏** dibaca **か (ka)**
+- Pada kata **一夏 (いちげ)**, kanji **夏** dibaca **げ (ge)**
 
-Seperti yang ada pada gambar di atas, kanji memiliki cara baca yang banyak, menghafalkan semua cara bacanya tidak akan membuat seseorang bisa membaca kanji, karena cara baca kanji akan berubah-ubah tergantung pada kanji atau okurigana yang menempel kepada suatu kanji. 
+Walaupun kamu menghafal semua cara baca kanji **夏**, bagaimana kamu menentukan bacaan yang benar ketika kanji tersebut bertemu dengan kanji lain? Menghafal aturan kapan harus pakai on-yomi atau kun-yomi pun tidak terlalu efektif karena banyak pengecualian. 🔄
 
-Contoh : 
+Ada terlalu banyak pengecualian di bahasa Jepang, jadi kalau kamu ingin membaca lebih baik mempelajarinya langsung melalui kosakata dan konteks daripada bergantung kepada aturan yang tidak bisa diandalkan karena ada banyaknya pengecualian. Metode itu adalah metode kosakata yang ada di bawah ini.
 
-夏(なつ) Dibaca なつ 
+---
 
-初夏(しょか), Kanji 夏 dalam kata tersebut dibaca か
+## 💡 Metode Kosakata
 
-一夏(いちげ), Kanji 夏 dalam kata tersebut dibaca げ
+Metode kosakata mempelajari kanji melalui **kata dan konteks**. Ada tiga informasi utama yang kamu perlu ingat:
+1. **Bentuk kata** (kanji secara utuh)
+2. **Cara baca** (pelafalan kata)
+3. **Arti** (makna kata dalam konteks)
 
-Lihatlah bagaimana kanji 夏 memiliki cara baca yang berbeda ketika dia bertemu kanji yang berbeda pula.
-
-Kalaupun kamu hafal semua on-yomi dan kun-yomi dari kanji 夏, Bagaimana cara kamu menentukan cara baca yang benar ketika kanji tersebut bertemu kanji lain?
-
-Menghafalkan aturan tentang kapan harus pakai on-yomi dan kapan harus pakai kun-yomi?
-
-Hal itu tidak terlalu efektif dan hanya akan menambahkan beban pikiran. Ada terlalu banyak pengecualian di bahasa Jepang, jadi kalau kamu ingin membaca lebih baik mempelajarinya langsung melalui kosakata dan konteks daripada bergantung kepada aturan yang tidak bisa diandalkan karena ada banyaknya pengecualian. Metode itu adalah metode kosakata yang ada di bawah ini.
-
-## Metode Kosakata
-
-Metode Kosakata adalah metode mempelajari kanji dengan tiga tujuan yaitu mengetahui arti, cara baca kanji, dan bagaimana bentuk kanji tersebut melalui kosakata dan konteks secara langsung. 
-
-Kalau tujuan kamu mempelajari kanji adalah untuk membaca dan memahami arti dari sebuah kata, maka metode kosakata adalah metode paling tepat untuk mencapai tujuan tersebut. Beban pikiran kamu akan jauh lebih ringan dibandingkan metode isolasi, karena dengan metode kosakata kamu hanya perlu mengingat 3 informasi saja, yaitu :
-
-1. Cara baca sebuah kata.
-2. Arti dari kata tersebut.
-3. Bagaimana bentuk kanji tersebut. 
-
-Sebagai contoh kita akan memakai kata 青春.
-
-Kalau kita mempelajari kata tersebut dengan metode kosakata, kamu hanya perlu mengingat 3 informasi ini
-
-Bentuk Kanji : 青春
-
-Cara Baca : せいしゅん
-
-Arti : Masa Muda
+Sebagai contoh, mari kita ambil kata **青春**:
+- **Bentuk Kanji:** 青春
+- **Cara Baca:** せいしゅん (seishun)
+- **Arti:** Masa Muda
 
 Untuk bisa membaca kata dan paham kata 青春 kita hanya perlu menghafal 3 informasi di atas. Selain itu 3 Informasi tersebut sangat-sangat sedikit jika dibandingkan dengan dengan metode isolasi. Untuk perbandingan ini adalah informasi yang harus kamu ingat kalau kamu ingin bisa membaca kata 青春 menggunakan metode isolasi. 
 
@@ -152,13 +130,19 @@ Ini adalah contoh nyata dimana orang Jepang menggunakan insting mereka untuk men
 
 Mungkin sekarang kamu masih sulit untuk memahami bagaimana cara insting itu bekerja, atau apakah insting itu asli atau tidak. Tapi kamu tidak perlu mengkhawatirkannya, kamu akan secara natural mendapatkannya dalam proses kamu mempelajari bahasa Jepang. Bahkan mungkin suatu saat nanti kamu tiba-tiba akan memiliki insting tersebut tanpa kamu sadari.
 
-## Cara Belajar
+---
 
-Jadi kamu bisa mempelajari kanji dan kosakata secara bersamaan menggunakan metode Kosakata. Untuk mempelajari kanji menggunakan metode kosakata ini silahkan pergi ke halaman selanjutnya. atau klik link di bawah ini.
+## 🚀 Cara Belajar Kanji yang Efektif
 
+Kamu bisa mempelajari kanji dan kosakata secara bersamaan dengan menggunakan **metode kosakata**. Metode ini sangat cocok jika tujuan utamamu adalah membaca dan memahami kata, tanpa harus menghafal setiap detail bacaan secara terpisah.
+
+Untuk memulai dengan metode kosakata, silakan lanjut ke halaman berikut:
 [Kosakata](kosakata.md)
 
-## Menulis Kanji
+---
+
+## ✍️ Menulis Kanji
+
 Menulis kanji (Menulis Tangan) adalah topik yang sedikit rumit. Bukan karena belajar menulis kanji itu sulit, tapi karena manfaat yang didapat dari menulis kanji sangat sedikit jika dibandingkan dengan effort yang dikeluarkan. Tentu saja bukan berarti belajar menulis kanji itu tidak berguna sama sekali. Itu semua tergantung dari tujuan masing-masing. Kalau kamu ingin belajar menulis kanji setidaknya jawab beberapa pertanyaan di bawah ini untuk menentukan apa kamu perlu mempelajari kanji atau tidak. 
 
 1. Apa kamu mau ikut ujian Kanji Kentei? 
