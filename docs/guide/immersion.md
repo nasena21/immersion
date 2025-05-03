@@ -35,9 +35,9 @@ Berikut urutan media dari yang paling mudah hingga paling sulit, berdasarkan seb
 - Gunakan **Yomitan** untuk bantu terjemahkan kata → [yomitan.wiki](https://yomitan.wiki)
 - Gunakan **TTu Reader** untuk membaca file EPUB di browser → [TTu Reader](https://reader.ttsu.app/b?id=329)
 - Langkah:
-  ```
+  
   Baca → Temukan kata yang tidak diketahui → Lihat artinya → Reaksi → Lanjut baca → Ulangi
-  ```
+  
 - Kata-kata yang belum kamu tahu bisa kamu **mine** ke Anki pakai Yomitan.
 
 ---

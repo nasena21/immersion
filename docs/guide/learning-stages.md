@@ -19,23 +19,6 @@ Dalam mempelajari bahasa Jepang, setidaknya ada dua kemampuan dasar yang perlu d
 
 ---
 
-## 📚 Tradisional vs Immersion
-
-Berbeda dengan metode pembelajaran tradisional yang lebih mengutamakan **output (Output > Input)**, metode immersion menekankan pada **pemahaman terlebih dahulu (Input > Output)** — mirip seperti cara bayi belajar bahasa.
-
-Metode tradisional lebih fokus pada hasil cepat, seperti kemampuan berbicara dalam waktu singkat, karena adanya tuntutan seperti kebutuhan pekerjaan. Akibatnya, banyak yang terjebak hanya dalam hafalan dan latihan bicara tanpa benar-benar memahami isi bahasa Jepang itu sendiri.
-
-Sementara itu, metode immersion tidak terburu-buru untuk bicara. Fokus utamanya adalah **memahami dulu sebanyak mungkin melalui input**, sebelum mulai melakukan output. Dengan cara ini, kamu bisa mencapai kefasihan yang alami dan mendalam.
-
-Bukan berarti metode immersion **anti terhadap textbook atau metode tradisional**. Banyak orang di komunitas immersion tetap membaca textbook. Perbedaannya adalah:
-- **Traditional learners** seringkali hanya terpaku pada buku tertentu yang diberikan di kelas.
-- Mereka merasa harus "menamatkan buku" sebelum merasa siap untuk masuk ke konten asli (native content).
-- Bahkan setelah lulus kelas pun, mereka masih bergantung pada struktur pelajaran dari textbook tersebut.
-
-Sebaliknya, metode immersion mendorong kamu untuk langsung menyelam ke dalam konten asli, dan menjadikan textbook sebagai **sumber referensi**, bukan sumber utama.
-
----
-
 ## 🚀 7 Tahap Belajar Bahasa Jepang dengan Metode Immersion
 
 Untuk memudahkan perjalananmu, berikut ini adalah **tujuh tahap utama** dalam belajar bahasa Jepang melalui metode immersion. Setiap tahap akan dijelaskan lebih detail di halaman masing-masing.

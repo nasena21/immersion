@@ -111,10 +111,17 @@ Bulan + Akhir = Akhir Bulan
 
 Hmmm, cukup masuk akal. 
 Tapi seperti yang sudah aku bilang, terlalu banyak pengecualian di bahasa Jepang.
+
 Tidak semua kata di bahasa Jepang seperti di atas, ada banyak kanji yang jika digabungkan dan membentuk kosakata akan memiliki arti yang sama sekali tidak ada hubungannya dengan arti dari masing-masing kanji yang menyusunnya.
 
 
-Jadi dengan metode kosakata, meskipun kamu tidak hafal on-yomi atau kun-yomi dari sebuah kanji, kamu masih tetap bisa membaca kanji. Selain itu metode kosakata ini juga nantinya akan membangun insting kamu dalam membaca kanji. Ketika kamu sudah menghafal banyak kosakata dan kemudian kamu bertemu sebuah kosakata yang tidak pernah kamu temui, tapi kamu pernah bertemu kanji tersebut di kosakata lain. Di sinilah insting kamu akan bekerja, kamu akan secara natural bisa menebak cara baca kanji tersebut seperti orang Jepang pada umumnya ketika mereka menebak cara baca kanji dari suatu kata yang tidak pernah mereka temui sebelumnya, tapi mereka pernah melihat kanji-kanji yang menyusun kata tersebut di kosakata lain.
+Jadi dengan metode kosakata, meskipun kamu tidak hafal on-yomi atau kun-yomi dari sebuah kanji, kamu masih tetap bisa membaca kanji. Selain itu metode kosakata ini juga nantinya akan membangun insting kamu dalam membaca kanji. 
+
+Ketika kamu sudah menghafal banyak kosakata dan kemudian kamu bertemu sebuah kosakata yang tidak pernah kamu temui, tapi kamu pernah bertemu kanji tersebut di kosakata lain. 
+
+Di sinilah insting kamu akan bekerja, kamu akan secara natural bisa menebak cara baca kanji tersebut seperti orang Jepang.
+
+Ketika mereka menebak cara baca kanji dari suatu kata yang tidak pernah mereka temui sebelumnya, tapi mereka pernah melihat kanji-kanji yang menyusun kata tersebut di kosakata lain.
 
 Ini adalah contoh nyata dimana orang Jepang menggunakan insting mereka untuk menebak cara baca sebuah kata yang tidak pernah mereka temui sebelumnya. Tapi mereka pernah melihat kanji tersebut di kata lain.
 
@@ -143,7 +150,11 @@ Untuk memulai dengan metode kosakata, silakan lanjut ke halaman berikut:
 
 ## ✍️ Menulis Kanji
 
-Menulis kanji (Menulis Tangan) adalah topik yang sedikit rumit. Bukan karena belajar menulis kanji itu sulit, tapi karena manfaat yang didapat dari menulis kanji sangat sedikit jika dibandingkan dengan effort yang dikeluarkan. Tentu saja bukan berarti belajar menulis kanji itu tidak berguna sama sekali. Itu semua tergantung dari tujuan masing-masing. Kalau kamu ingin belajar menulis kanji setidaknya jawab beberapa pertanyaan di bawah ini untuk menentukan apa kamu perlu mempelajari kanji atau tidak. 
+Menulis kanji (Menulis Tangan) adalah topik yang sedikit rumit. Bukan karena belajar menulis kanji itu sulit, tapi karena manfaat yang didapat dari menulis kanji sangat sedikit jika dibandingkan dengan effort yang dikeluarkan. 
+
+Tentu saja bukan berarti belajar menulis kanji itu tidak berguna sama sekali. Itu semua tergantung dari tujuan masing-masing. 
+
+Kalau kamu ingin belajar menulis kanji setidaknya jawab beberapa pertanyaan di bawah ini untuk menentukan apa kamu perlu mempelajari kanji atau tidak. 
 
 1. Apa kamu mau ikut ujian Kanji Kentei? 
 

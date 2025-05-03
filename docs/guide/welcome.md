@@ -16,17 +16,17 @@ Website ini dibuat khusus untuk kamu yang ingin belajar **bahasa Jepang** dengan
 
 ## 🎧 Apa itu Metode Immersion?
 
-Metode Immersion adalah cara belajar bahasa dengan **mengkonsumsi konten berbahasa Jepang secara langsung**, melalui berbagai media seperti:
+Metode immersion adalah cara belajar bahasa dengan mengkonsumsi konten dari bahasa yang ingin dipelajari secara langsung, tanpa bantuan terjemahan atau subtitle dalam bahasa lain.
+
+Berikut ini adalah berbagai macam konten yang bisa digunakan untuk immersion:
 
 - Anime 🎥
 - Manga 📚
-- Drama 📺
+- Light Novel 📖
 - Visual Novel 🎮
+- Drama 📺
 - Podcast 🎧  
 - Video YouTube 📱
-
-
-Daripada menghafal dari textbook yang membosankan, kita akan **membiasakan otak kita dengan bahasa Jepang** seperti layaknya anak kecil belajar bahasa ibu mereka.
 
 ---
 
@@ -42,16 +42,22 @@ Metode ini cocok untuk:
 ## 📚 Apa yang Akan Kamu Temukan di Sini?
 
 - Panduan langkah demi langkah untuk memulai immersion
-- Rekomendasi konten Jepang sesuai level
+- Rekomendasi konten bahasa Jepang
 - Tips belajar kanji, grammar, dan kosakata dari konten berbahasa Jepang
-- Alat bantu seperti Anki, subtitle tools, dan lain-lain
+- Alat-alat untuk belajar bahasa Jepang seperti Anki, Yomitan, dan lain-lain
 - Artikel dan blog dari pengalaman pribadi belajar Jepang dengan immersion
 
 ---
 
 ## 🚀 Ayo Mulai!
 
-Mulailah dari halaman [Panduan Awal](/guide/introduction.md) atau cek [Blog](/blog/) untuk inspirasi dan pengalaman belajar.
+Belajar bahasa Jepang bukanlah hal yang mudah. Ini adalah sebuah perjalanan yang bisa mengubah hidup seseorang. 
+
+Banyak orang yang berhenti di tengah Jalan, bukan karena bahasa Jepang itu susah, tetapi karena ekspektasi mereka tidak sesuai dengan kenyataan. 
+
+Sebelum memulai belajar bahasa Jepang, alangkah baiknya, kamu mengatur mindset dan motivasi agar kalian tidak berhenti di tengah Jalan.
+
+Mulailah dari halaman [Mindset dan Motivasi](/guide/mindset-motivasi.md)
 
 ---
 

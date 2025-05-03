@@ -2,7 +2,7 @@
 title: Apa itu Immersion?
 ---
 
-# 🌊 Apa itu Immersion?
+# 🌊 Apa itu Metode Immersion?
 
 Immersion adalah pendekatan belajar bahasa yang berfokus pada memperoleh bahasa melalui paparan alami terhadap konten bahasa Jepang secara langsung tanpa melalui terjemahan atau subtitle, seperti cara kita belajar bahasa pertama kita sebagai bayi. 
 
@@ -24,7 +24,7 @@ Konten ini bisa berupa anime, light novel, manga, atau bahkan percakapan. Dengan
 
 Seperti bayi yang belajar berbicara sebelum bisa membaca atau menulis, kita mulai dengan mendengarkan, membaca, dan menyerap bahasa Jepang secara alami. Otak kita mulai memproses bahasa dengan cara yang sama seperti cara kita memproses bahasa pertama kita, belajar bahasa melalui konteks.
 
-## 📚 Bagaimana Immersion Berbeda dari Pembelajaran Tradisional?
+## 📚 Perbedaan Metode Immersion dan Metode Tradisional
 
 Kelas bahasa tradisional sering kali memaksa siswa untuk berbicara bahasa tersebut sebelum mereka benar-benar memahaminya. Hal ini bisa menimbulkan frustrasi dan kebingungan karena siswa diharapkan untuk menghasilkan kalimat atau berbicara dalam situasi nyata tanpa pondasi yang cukup.
 
@@ -54,7 +54,7 @@ Bahkan setelah lulus dari kelas, mereka tetap terjebak pada buku yang sama dan t
 
 Sebaliknya, metode Immersion selain mempelajari textbook, metode Immersion juga mewajibkan kita untuk melangkah keluar dari textbook dan mengkonsumsi konten berbahasa Jepang.
 
-## 🤔 Kegiatan Immersion itu apa saja?
+## 🤔 Kegiatan Immersion
 
 Kunci keberhasilan Immersion adalah menemukan metode yang cocok dan sederhana. Maksud dari sederhana adalah tidak membutuhkan waktu berlebihan untuk mengatur alat atau sistem yang rumit. Semakin sederhana dan mudah diakses metode Immersion, semakin mudah kita untuk terus melakukannya.
 
@@ -64,7 +64,9 @@ Berikut adalah urutan kegiatan Immersion yang direkomendasikan, dimulai dari yan
    
 2. **Menonton Anime** 🍿: Menonton anime akan melatih kemampuan listening kita. Tapi selain itu, menonton anime juga bisa membantu meningkatkan kemampuan kita membaca bahasa Jepang jika kita menontonnya menggunakan subtitle Jepang. Setup untuk menonton anime juga tidak rumit. Hanya dengan memakai Netflix saja sudah bisa membuat kita menonton anime dengan subtitle Jepang.
    
-3. **Bermain Visual Novel** 🎮: Visual novel memberikan pengalaman yang lebih interaktif, memberi kesempatan untuk membaca dan kadang-kadang berbicara bersama karakter. Mereka sering memiliki dialog yang kaya dan berbobot, yang membantu memperdalam pemahaman kita. Melakukan immersion dengan bermain visual novel adalah hal yang sangat berbeda jika dibandingkan dengan light novel dan menonton anime. Kamu harus melakukan effort lebih banyak untuk bisa menyediakan semua peralatan yang diperlukan.
+3. **Bermain Visual Novel** 🎮: Visual novel bisa dibilang adalah gabungan dari anime dan light novel. Kekurangan dari light novel adalah minimnya visual, tapi kelebihannya adalah jumlah teks dan kosakata yang digunakan itu banyak. Sementara kekurangan dari anime adalah kosa kata yang digunakan sangat sedikit jika dibandingkan dengan light novel, tapi memiliki banyak visual. 
+
+ memberikan pengalaman yang lebih interaktif, memberi kesempatan untuk membaca dan kadang-kadang berbicara bersama karakter. Mereka sering memiliki dialog yang kaya dan berbobot, yang membantu memperdalam pemahaman kita. Melakukan immersion dengan bermain visual novel adalah hal yang sangat berbeda jika dibandingkan dengan light novel dan menonton anime. Kamu harus melakukan effort lebih banyak untuk bisa menyediakan semua peralatan yang diperlukan.
    
 4. **Membaca Manga** 🖼️: Manga bisa menjadi bentuk Immersion yang lebih menantang karena penggunaan bahasa sehari-hari dan slang. Namun, ini adalah cara yang sangat baik untuk meningkatkan pemahaman kita tentang percakapan santai dan budaya. Membaca manga bisa dipastikan adalah metode immersion yang paling sulit jika dibandingkan ketiga hal di atas. Bahkan aku berani menyarankan, sebaiknya hindari membaca manga kalau kamu masih pemula. 
 

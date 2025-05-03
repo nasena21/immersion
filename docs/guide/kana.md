@@ -3,9 +3,6 @@
 Bahasa Jepang memiliki tiga jenis huruf: **Hiragana**, **Katakana**, dan **Kanji**.  
 Langkah pertama dalam mempelajari bahasa Jepang adalah menguasai **Hiragana** dan **Katakana** terlebih dahulu, baik dalam membaca maupun menulis.
 
-![kana](/guide/img/hiragana-katakana.jpg)
-
----
 
 ## Hiragana
 
